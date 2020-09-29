@@ -30,4 +30,4 @@ par la suite avec maven :
   ` mvn  test ` 
   
   
-  **NB** : J'ai implémenté deux solution partition 1  et partition 2 et j'ai implémenté les test unitaire pour les deux fonction
+  **NB** : J'ai implémenté deux solution partition 1  et partition 2 et j'ai implémenté les test unitaire pour les deux fonctions
