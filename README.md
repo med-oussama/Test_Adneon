@@ -5,7 +5,9 @@ Cet projet contient la fonction « partition » qui prend un paramètre « liste
 Exemples d'entrées et sorties :
                                             
 partition([1,2,3,4,5], 2) retourne: [ [1,2], [3,4], [5] ]
+
 partition([1,2,3,4,5], 3) retourne: [ [1,2,3], [4,5] ]
+
 partition([1,2,3,4,5], 1) retourne: [ [1], [2], [3], [4], [5] ]  
 
 
